@@ -1,10 +1,10 @@
 .title {
-  color: #FFFFFF;
+  color: #fff;
   background-color: #011627;
   font-family: Century Gothic;
   font-size: 500%;
   text-align: center;
-  margin: 0px;
+  margin: 1px;
   width: 1270px;
   height: 100px;
   padding: 30px;
@@ -18,8 +18,9 @@
 }
 
 .backgroundcolor {
-  background-color: #FFFFFF;
+  background-color: #fff;
 }
+
 .images {
   margin-left: auto;
   margin-right: auto;
@@ -27,7 +28,7 @@
 }
 
 .timelinelist {
-  color: #FFFFFF;
+  color: #fff;
   background-color: #282e34;
   font-family: Century Gothic;
   font-size: 100%;
@@ -40,8 +41,8 @@
 }
 
 .factslist {
-  color: #FFFFFF;
-  background-color: #282e34;     
+  color: #fff;
+  background-color: #282e34;
   font-family: Century Gothic;
   font-size: 100%;
   text-align: right;
