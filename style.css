@@ -1,0 +1,82 @@
+.title {
+  color: #FFFFFF;
+  background-color: #011627;
+  font-family: Century Gothic;
+  font-size: 500%;
+  text-align: center;
+  margin: 0px;
+  width: 1270px;
+  height: 100px;
+  padding: 30px;
+}
+
+.sub {
+  color: #011627;
+  font-family: Century Gothic;
+  font-size: 150%;
+  text-align: center;
+}
+
+.backgroundcolor {
+  background-color: #FFFFFF;
+}
+.images {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.timelinelist {
+  color: #FFFFFF;
+  background-color: #282e34;
+  font-family: Century Gothic;
+  font-size: 100%;
+  text-align: left;
+  display: incline-block;
+  width: 600px;
+  height: 700px;
+  padding: 30px;
+  float: left;
+}
+
+.factslist {
+  color: #FFFFFF;
+  background-color: #282e34;     
+  font-family: Century Gothic;
+  font-size: 100%;
+  text-align: right;
+  display: incline-block;
+  width: 600px;
+  height: 700px;
+  padding: 30px;
+  float: left;
+}
+
+.quote {
+  color: #011627;
+  font-family: Century Gothic;
+  font-size: 125%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.label {
+  color: #011627;
+  font-family: Century Gothic;
+  font-size: 125%;
+}
+
+.footer {
+  text-align: center;
+  font-family: Century Gothic;
+  font-size: 150%;
+  background-color: #f1f1f1;
+  padding: 10px;
+}
+
+.video {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
